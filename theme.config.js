@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  github: 'https://github.com/et0and/learn.tewahi.com',
+  docsRepositoryBase: 'https://github.com/et0and/learn.tewahi.com/blob/master',
   titleSuffix: ' – Te Wāhi Learn',
   logo: (
     <>

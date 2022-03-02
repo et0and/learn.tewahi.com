@@ -62,6 +62,6 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © Te Wāhi Auaha .</>,
+  footerText: <>MIT {new Date().getFullYear()} © Te Wāhi Auaha</>,
   unstable_faviconGlyph: '👋',
 }

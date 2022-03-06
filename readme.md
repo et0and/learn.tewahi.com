@@ -2,7 +2,7 @@
 
 **Learn** is Te Wāhi's public tutorials and documentation site, built using [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com).
 
-![](/public/demo.png)
+![](/public/learn.png)
 
 All materials on the site are freely available within this repo. Mirrors of popular software and tools used at Te Wāhi are linked to our CDN for security and stability. 
 

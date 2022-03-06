@@ -1,10 +1,11 @@
 {
-  "zbrush": "ZBrush",
+  "crstudio": "CR Studio",
+  "cura": "Cura",
+  "fusion360": "Fusion 360",
   "meshmixer": "Meshmixer",
+  "polycam": "Polycam",
   "sketchup": "SketchUp",
   "tinkercad": "Tinkercad",
   "thingiverse": "Thingiverse",
-  "polycam": "Polycam",
-  "crstudio": "CR Studio",
-  "cura": "Cura"
+  "zbrush": "ZBrush"
 }

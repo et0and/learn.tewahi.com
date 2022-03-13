@@ -1,5 +1,5 @@
 {
     "print": "3D print something",
-    "cut": "lasercut something",
-    "engrave": "laser engrave something"
+    "cut": "Lasercut something",
+    "engrave": "Laser engrave something"
   }

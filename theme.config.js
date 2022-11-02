@@ -4,7 +4,7 @@ export default {
   titleSuffix: ' – Te Wāhi Learn',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Learn</span>
+      <span className="mr-2 font-extrabold visible md:inline">Learn</span>
       <span className="text-gray-600 font-normal hidden md:inline">
         a Te Wāhi resource
       </span>

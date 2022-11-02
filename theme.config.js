@@ -5,7 +5,7 @@ export default {
   logo: (
     <>
       <span className="mr-2 font-extrabold visible md:inline">Learn</span>
-      <span className="text-gray-600 font-normal hidden md:inline">
+      <span className="text-gray-600 font-normal visible md:inline">
         a Te Wāhi resource
       </span>
     </>
